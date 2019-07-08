@@ -249,7 +249,7 @@ header {
 /* THE MEALS */
 /* -------------------- */
 
-.section-meal {
+.section-meals {
     padding: 0;
 }
 
@@ -450,6 +450,12 @@ plan-price-meal {
 .plan- box ul li {
     padding: 5px 0;
 }
+
+/* -------------------- */
+/* CONTACT FORM */
+/* -------------------- */
+
+
 
 
 
