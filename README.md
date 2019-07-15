@@ -1,2 +1,2 @@
 # omnifood
-A HTML5 and CSS practice website 
+A HTML5 and CSS3 website 
